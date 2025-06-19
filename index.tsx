@@ -19,7 +19,7 @@ export default definePlugin({
 
     settingsAboutComponent: () => <>
         <Forms.FormText className="vc-plugin-wikisearch-notice">
-            Enabling this plugin allows Wikipedia/Wikimedia too bypass Vencord's CSP Restrictions.
+            Enabling this plugin allows Wikipedia/Wikimedia to bypass Vencord's CSP Restrictions.
         </Forms.FormText>
     </>,
 
