@@ -13,11 +13,8 @@ import { Forms } from "@webpack/common";
 
 export default definePlugin({
     name: "Wikisearch",
-
-    description: "Searches Wikipedia for your requested query. (/wikisearch)",
-
+    description: "Searches Wikipedia for your requested query via the /wikisearch command.",
     authors: [Devs.Samu],
-
     dependencies: ["CommandsAPI"],
 
     settingsAboutComponent: () => <>
@@ -29,7 +26,7 @@ export default definePlugin({
     commands: [
         {
             name: "wikisearch",
-            description: "Searches Wikipedia for your request.",
+            description: "Searches Wikipedia for your request",
             inputType: ApplicationCommandInputType.BUILT_IN,
             options: [
                 {
