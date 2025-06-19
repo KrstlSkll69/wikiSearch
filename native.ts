@@ -4,7 +4,6 @@
  * SPDX-License-Identifier: GPL-3.0-or-later
  */
 
-import { ConnectSrc, CspPolicies, ImageSrc } from "@main/csp";
+import { CspPolicies, ImageSrc } from "@main/csp";
 
 CspPolicies["en.wikipedia.org/"] = ImageSrc;
-CspPolicies["en.wikipedia.org/"] = ConnectSrc;
