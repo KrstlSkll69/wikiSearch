@@ -1,7 +1,9 @@
 # wikiSearch
 Searches Wikipedia for your requested query. (/wikisearch)
 
-![Preview](https://cdn.nest.rip/uploads/8e9ebf5a-38ac-4234-90f8-925e46c93980.png)
+![Preview](https://cdn.nest.rip/uploads/8e9ebf5a-38ac-4234-90f8-925e46c93980.png) </br>
+
+![](https://cdn.nest.rip/uploads/03a43025-6dda-469b-adcf-f79291856ffd.png)</br>
 
 ## DOWNLOAD INSTRUCTIONS
 You can either __git clone__ the repository OR __manually install__ it by downloading it as a zip file.<br/>
